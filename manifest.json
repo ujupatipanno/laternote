@@ -1,0 +1,10 @@
+{
+  "id": "later-note-plugin",
+  "name": "이따보기",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "글을 쓰다 임시로 빼두고 싶은 내용을 잡동사니 노트에 옮겨두고, 필요 시 기록 노트로 비우는 플러그인",
+  "author": "ujupatipanno",
+  "authorUrl": "https://github.com/ujupatipanno",
+  "isDesktopOnly": false
+}
